@@ -9,10 +9,7 @@ Your browser does not support the video tag.
 ## Installation
 To install the release version of the tool, follow these steps:
 1. Go to the [Releases](https://github.com/pritambeta/Serve-App/releases) page of the repository.
-2. Download the latest release
-
-
- package to a directory of your choice.
+2. Download the latest release package to a directory of your choice.
 3. Extract the zip file.
 4. Open the `Environment Variables` settings and paste the path of the folder into the designated field there.
 
